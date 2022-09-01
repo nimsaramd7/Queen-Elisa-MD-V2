@@ -8,12 +8,12 @@
 
 "APP_NAME": {
   "description": "HEROKU APP NAME",
-  "required": true
+  "required": false
 },
 
 "HEROKU_API": {
   "description": "HEROKU API KEY",
-  "required": true
+  "required": false
 },
 
 "OWNER_NUMBER" :{
